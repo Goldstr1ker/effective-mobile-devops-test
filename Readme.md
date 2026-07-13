@@ -24,11 +24,11 @@
 ### Выполните команду curl к локальному хосту:
     ```bash
     curl http://localhost
-    ```
+
 ### Ожидаемый ответ:
     ```plaintext
     Hello from Effective Mobile!
-    ```
+
 ## Как работает схема 
 1. Изоляция: Контейнеры запускаются в кастомной bridge-сети Docker (app-network).
 
